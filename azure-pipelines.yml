@@ -15,7 +15,7 @@ steps:
   displayName: 'Run a one-line script'
 - task: buildandreleasetask@0
   inputs:
-    samplestring: 'human'
+    samplestring: 'bahareh'
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
